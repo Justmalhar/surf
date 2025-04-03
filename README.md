@@ -48,6 +48,11 @@ Before starting, you'll need:
 3. An [E2B API key](https://e2b.dev/docs/getting-started/api-key)
 4. An [OpenAI API key](https://platform.openai.com/api-keys)
 
+## Deploy to Vercel
+Deploying **Surf** is simple and fast with Vercel's one-click deployment option. From creators of Next.js, Vercel provides a powerful and scalable environment for your project.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Justmalhar/surf&env=E2B_API_KEY&env=OPENAI_API_KEY)
+
 ## Setup Instructions
 
 1. **Clone the repository**
